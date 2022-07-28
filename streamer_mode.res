@@ -34,7 +34,7 @@
 
 	"itempanel"
 	{
-		"ypos"		"9999"		"visible"	"0"		"enabled"	"0"		}
+		"ypos"		"9999"		"visible"	"0"		"enabled"	"0"
 
 		"ItemLabel"
 		{		"ypos"		"9999"		"visible"	"0"		"enabled"	"0"		}
