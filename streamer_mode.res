@@ -145,7 +145,7 @@
 	//path: hud/resource/ui/hudplayerclass.res
 	"CarryingWeapon"
 	{
-        "OwnerLabel"
+		"OwnerLabel"
 		{		"ypos"		"9999"		"visible"	"0"		"enabled"	"0"		}	
 	}
 
