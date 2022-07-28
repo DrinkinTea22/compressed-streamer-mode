@@ -6,6 +6,11 @@
 //note: this contains (resource and scripts) settings.
 "resource/streamermode.res"
 {
+	//file: steamfriendpanel.res
+	//path: hud/resource/ui/steamfriendpanel.res
+	"NameLabel"
+	{		"ypos"		"9999"		"visible"	"0"		"enabled"	"0"		}
+	
 	//file: basechat.res
 	//path: hud/resource/ui/basechat.res
 	"HudChat"
