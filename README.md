@@ -1,12 +1,17 @@
 # compressed streamer mode
 tf2 hud streamer-mode support with just 1 file.
 
+# Credits
+- Whisker (budhud) 
+- omnibombulator (huds.tf) 
+
 # Instructions
 - List of files you'd have to edit:
 
 | Resource | Scripts |
 |:-:|:-:|
-| basechat.res | hudlayout |
+| steamfriendpanel.res | hudlayout |
+| basechat.res | x |
 | dashboardpartymember.res | x |
 | disguisestatuspanel.res | x |
 | freezepanel_basic.res | x |
