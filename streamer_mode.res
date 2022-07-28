@@ -3,7 +3,7 @@
 //for: everyone
 //Credits: Whisker (budhud) And omnibombulator (huds.tf) 
 
-//note: this containts (resource and scripts) settings.
+//note: this contains (resource and scripts) settings.
 "resource/streamermode.res"
 {
 	//file: basechat.res
@@ -188,6 +188,13 @@
 	//file: mvmscoreboard.res
 	//path: hud/resource/ui/mvmscoreboard.res
 	"MvMPlayerList"
+	{		"ypos"		"9999"		"visible"	"0"		"enabled"	"0"		}
+	
+	//file: scoreboard.res
+	//path: hud/resource/ui/scoreboard.res
+    "redplayerlist"
+	{		"ypos"		"9999"		"visible"	"0"		"enabled"	"0"		}
+    "BluePlayerList"
 	{		"ypos"		"9999"		"visible"	"0"		"enabled"	"0"		}
 	
 	//file: spectator.res
